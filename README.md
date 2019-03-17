@@ -7,15 +7,15 @@ Basic forensic script for hacking the world wide web.
 ```sh
 cd
 git clone https://github.com/AnikHasibul/wwwtf
-cd wwtf
-chmod +x wwtf
-./wwtf google.com
+cd wwwtf
+chmod +x wwwtf
+./wwwtf google.com
 ```
 
 ## Usage:
 
 ```
-$ ./wwtf apple.com
+$ ./wwwtf apple.com
 ```
 
 ## Problem?
